@@ -171,7 +171,7 @@
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "e1fdbd436d304c8d47467cf375fb62ab16fabfdef634d348e93a2cf7fa0e761462651ad230bc855039fd09ac94f5afedb88292c0ae9499b01f368ec1da2c7fdc",
         "state": "",
-        "url": "https://github.com/j-sandy/Pf4jProgressiveCustomStagePlugin/releases/download/v1.0.3/pf4jProgressiveCustomStagePlugin-v1.0.3.zip"
+        "url": "https://github.com/j-sandy/spinnakerPluginRepository/releases/download/v1.0.3/pf4jProgressiveCustomStagePlugin-v1.0.3.zip"
       },
       {
         "version": "1.0.4",
